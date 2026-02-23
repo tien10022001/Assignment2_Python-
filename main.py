@@ -49,7 +49,7 @@ while True:
             print(" Không tìm thấy")
 #Thoát
     elif choice == "0":
-        print("Thoát chương trình:")
+        print("Cảm ơn bạn đã sử dụng phần mềm. Hẹn gặp lại!")
         break
     else:
         print("Hãy chọn lại:")
