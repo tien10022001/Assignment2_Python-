@@ -1,3 +1,4 @@
+# File chạy chính của chương trình quản lý
 import product_manager
 # from product_manager import *
 while True:
