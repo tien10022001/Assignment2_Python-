@@ -52,4 +52,4 @@ while True:
         print("Cảm ơn bạn đã sử dụng phần mềm. Hẹn gặp lại!")
         break
     else:
-        print("Hãy chọn lại:")
+        print("Hãy chọn lại:") #tien thay doi
