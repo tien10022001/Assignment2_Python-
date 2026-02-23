@@ -8,7 +8,7 @@ def add_product(product):
 def show_products():
     return products
 #Tìm kiếm sản phẩm 
-def find_product(product_id):
+def find_product(product_id): # Tra ve dict san pham neu tim thay, hoac None neu khong thay
     for p in products:
         if p["id"] == product_id:
             return p
