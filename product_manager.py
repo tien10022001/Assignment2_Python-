@@ -19,4 +19,4 @@ def delete_product(product_id):
         if p["id"] == product_id:
             products.remove(p)
             return True 
-    return False
+        return False
