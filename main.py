@@ -23,6 +23,7 @@ while True:
         print("Đã thêm sản phẩm")
 # HIỂN THỊ 
     elif choice == "2":
+        print("--- DANH SÁCH LƯU TRỮ ---")
         products = product_manager.show_products()
         if len(products) == 0:
             print(" Chưa có sản phẩm")
