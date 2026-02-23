@@ -1,6 +1,7 @@
 #Danh sách sản phẩm 
 products = []
-#Thêm sản phẩm
+#Thêm sản phẩm 
+# Ham nay dung de them 1 dict san pham vao list
 def add_product(product):
     products.append(product)
 #Hiển thị sản phẩm
