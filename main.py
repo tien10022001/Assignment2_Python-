@@ -38,7 +38,7 @@ while True:
         if result:
             print(" Tìm thấy:", result)
         else:
-            print(" Không tìm thấy")
+            print(" Cảnh báo: Không tìm thấy sản phẩm này trong kho!")
 
     #  XÓA 
     elif choice == "4":
